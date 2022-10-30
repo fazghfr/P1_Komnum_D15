@@ -9,3 +9,13 @@ Untuk praktikum pertama ini, diinstruksikan untuk mengimplementasikan metode bol
 untuk algoritmanya itu sendiri, nilai batas bawah dan atas jika dimasukkan kedalam persamaan harus berbeda tanda
 jika nilai tengah dimasukkan kedalam fungsi bernilai positif, maka batas atas diganti nilai tengah, dan jika negatif
 digantikan kepada batas bawah.
+
+untuk inputnya,
+fungsi berbentuk string -> dimana bentuk fungsinya harus sesuai dengan fungsi matematis di python.
+contoh :  x^2 + 4 --> x**2 + 4
+
+batas dan bawah : angka biasa
+ketik CTRL + Z sebelum/sesudah menginputkan data untuk mengakhiri sesi.
+
+*note dibutuhkan numpy dan matplotlib untuk menjalankan program ini. karena kami juga menampilkan grafik dari
+persamaan dan akar persamaan tersebut.
